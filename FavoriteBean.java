@@ -1,10 +1,6 @@
 package databean;
 
-/**
- * @author Chuhui Zhang (chuhuiz@andrew.cmu.edu)
- * Course number: 08-672
- * Dec 5, 2015
- */
+
 public class FavoriteBean {
 	private int favoriteId;
 	private int userId;
