@@ -5,11 +5,6 @@ import java.util.List;
 
 import javax.servlet.http.HttpServletRequest;
 
-/**
- * @author Chuhui Zhang (chuhuiz@andrew.cmu.edu)
- * Course number: 08-672
- * Dec 5, 2015
- */
 public class ManageForm {
 	private String url;
 	private String comment;
