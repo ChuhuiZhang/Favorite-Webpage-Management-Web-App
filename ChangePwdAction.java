@@ -11,11 +11,7 @@ import formbean.ChangePwdForm;
 import model.Model;
 import model.UserDAO;
 
-/**
- * @author Chuhui Zhang (chuhuiz@andrew.cmu.edu)
- * Course number: 08-672
- * Dec 5, 2015
- */
+
 public class ChangePwdAction extends Action {
 	private UserDAO userDAO;
 
