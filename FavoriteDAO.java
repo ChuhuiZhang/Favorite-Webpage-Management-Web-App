@@ -12,11 +12,6 @@ import java.util.List;
 
 import databean.FavoriteBean;
 
-/**
- * @author Chuhui Zhang (chuhuiz@andrew.cmu.edu)
- * Course number: 08-672
- * Dec 5, 2015
- */
 
 public class FavoriteDAO {
 
