@@ -12,11 +12,6 @@ import java.util.List;
 
 import databean.UserBean;
 
-/**
- * @author Chuhui Zhang (chuhuiz@andrew.cmu.edu)
- * Course number: 08-672
- * Dec 5, 2015
- */
 public class UserDAO {
 	private List<Connection> connectionPool = new ArrayList<Connection>();
 
