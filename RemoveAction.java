@@ -12,11 +12,6 @@ import model.Model;
 import model.MyDAOException;
 import model.UserDAO;
 
-/**
- * @author Chuhui Zhang (chuhuiz@andrew.cmu.edu)
- * Course number: 08-672
- * Dec 5, 2015
- */
 public class RemoveAction extends Action {
 	private FavoriteDAO favoriteDAO;
 	private UserDAO  userDAO;
