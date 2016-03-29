@@ -14,12 +14,6 @@ import model.Model;
 import model.MyDAOException;
 
 
-/**
- * @author Chuhui Zhang (chuhuiz@andrew.cmu.edu)
- * Course number: 08-672
- * Dec 5, 2015
- */
-
 @SuppressWarnings("serial")
 public class Controller extends HttpServlet {
 
