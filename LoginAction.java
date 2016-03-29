@@ -11,11 +11,6 @@ import formbean.LoginForm;
 import model.Model;
 import model.UserDAO;
 
-/**
- * @author Chuhui Zhang (chuhuiz@andrew.cmu.edu)
- * Course number: 08-672
- * Dec 5, 2015
- */
 public class LoginAction extends Action {
 	private UserDAO userDAO;
 
