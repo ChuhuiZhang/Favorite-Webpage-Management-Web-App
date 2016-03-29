@@ -11,11 +11,6 @@ import model.FavoriteDAO;
 import model.Model;
 import model.UserDAO;
 
-/**
- * @author Chuhui Zhang (chuhuiz@andrew.cmu.edu)
- * Course number: 08-672
- * Dec 5, 2015
- */
 public class ManageAction extends Action {
 	private FavoriteDAO favoriteDAO;
 	private UserDAO userDAO;
